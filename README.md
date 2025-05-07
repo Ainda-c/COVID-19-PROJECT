@@ -18,4 +18,12 @@ Tools and libraries:
   5. jupyter - Notebook environment for analysis and reporting.
 
 How to run/view the project:
-  
+1. Clone the Repository - https://github.com/Ainda-c/COVID-19-PROJECT.git
+2. Open COVID19.ipynb file and run all cells to see analysis and visuals on github environment
+
+ Key Insights:
+- The USA and India led in total cases, with peaks during the Delta wave (mid-2021).
+- Brazil’s death rate (~2.5%) was higher than Germany’s (~1.2%), suggesting healthcare differences.
+- The UK reached >70% vaccination by mid-2022, while India scaled up later.
+- Case spikes often aligned with new variants or relaxed restrictions.
+- Choropleth maps show high case density in North America and Europe.
